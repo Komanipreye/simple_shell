@@ -5,7 +5,7 @@
 
 ### Project details
 -----
-Welcome to the `Mandalorian Simple Shell` project!! This program is a simple shell that can be compiled and launched from the command line.
+Welcome to the `Avengers Simple Shell` project!! This program is a simple shell that can be compiled and launched from the command line.
 
 ### How to Compile
 ---------------
@@ -36,7 +36,7 @@ This shell supports a variety of commands:
 `unsetenv` - unsets an environment variable
 
 ```
-MANDALORIAN$ help <builtin command>
+AVENGERS$ help <builtin command>
 ```
 
 ### Compilation
@@ -76,3 +76,5 @@ Brief description of every file in this repository. Subject to change.
 
 ### Authors
 ---
+
+Komani Tamunokepreye
